@@ -1,16 +1,13 @@
-### Hi there 👋
+# https://tomhasawebsite.com
 
-<!--
-**tommacode/tommacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languagues That I know
+1. Bash (just a little)
+2. Python
+3. VB
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linux
+I use linux on my raspberry pi (ubuntu server) because there is low overhead and it allows me to host my website on it. However, the website that you see on my main domain is served by azure because I have a tendancy to accedently nuke/break something on the webserver. I am getting better with apache but this is the first website I have made.
+### Windows
+I use windows on my main computer because it is easy to use and there is a lot of support. I use windows 11 because it is the latest
