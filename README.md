@@ -1,9 +1,11 @@
 # https://tomhasawebsite.com
 
-### Languagues That I know
+### Languagues That I use
 1. Bash (just a little)
 2. Python
 3. VB
+4. HTML + CSS
+5. Javascript on my website
 
 ---
 
