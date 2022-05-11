@@ -1,4 +1,5 @@
 # https://tomhasawebsite.com
+# https://tomblake.me
 
 ### Languagues That I use
 1. Bash (just a little)
